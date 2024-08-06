@@ -1,0 +1,24 @@
+                                                    What are Controls?
+
+Controls can be defined as methods or tools that are used to keep the organization safe, secure and compliant. They help the organizations prevent issues, detect problems and solve them.
+
+                                                    Control Categories
+
+Technical Controls are tech-based protections like firewalls and encryption.
+Managerial Controls are rules and procedures set by management, like performance reviews and risk assessments.
+Operational Controls are everyday practices to ensure smooth operations, such as incident response plans and security training.
+Physical Controls are tangible security measures, like guards and access control systems, to protect physical spaces and assets.                 
+                                                                 
+                                                    Control Types
+
+1)Preventive Controls: These controls are designed such that they prevent the problems before they even occur. Using firewalls to prevent unauthorized access, educating employees by providing the necessary safety and security training comes under preventive controls.
+
+2)Deterrent Controls: These controls are designed to make people think twice before doing things they shouldn’t. They act as a warning or discouragement against bad behavior or actions. Using MFA, & strong passwords to prevent unauthorized access, surveillance cameras to prevent any illegal activity.
+
+3)Detective Controls: These controls help in identifying and detecting the issues that have already occurred. Using Security Information and Event Management systems we can analyze and identify the issues that occurred.
+
+4)Corrective Controls: These controls help in addressing the problems that are identified. Incase of an application failure then having a backup or recovery system in place can help fix the problems identified. Also, developing a particular fix so that next time when the issue occurs, we would have a fix already in place to address the problem.
+
+5)Compensating Controls: The word compensating itself tells us that these controls are designed as an alternative that can be used when the primary controls fail. Using additional security questions when we forget passwords for access to a particular system, implementing additional approvals in place for financial transactions or any high priority pull requests.
+
+6)Directive Controls: These controls provide the guidelines, policies to make sure the organization's goals are met and also be in compliance. Code of conduct, ethical behavior, detailed-steps to follow while performing tasks all these come under the directive controls.
